@@ -1,0 +1,4 @@
+User agent: *
+Allow: /
+
+Sitemap:https://seo-lrix.vercel.app/sitemap.xml
